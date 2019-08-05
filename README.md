@@ -2,7 +2,6 @@ TETAP LAH DI JALAN SYETAN
 PANDANG LAH TURUTI EGO MU JANGAN PANDANG JALAN BENAR
 RECODE? MANDUL YEE
 
-#ChatMe
-https://api.whatsapp.com/send?phone=62881026885233
 ls
+cd transgender
 bash transtod.sh
