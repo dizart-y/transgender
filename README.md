@@ -1,1 +1,2 @@
-# transgender
+ls
+bash transtod.sh
